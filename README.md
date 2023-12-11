@@ -6,4 +6,6 @@ Data science is a very rapidly growing field in today's era. Almost all the spar
 
 The notebooks here gives a basic and fundamental tool kit needed in the field of data science. 
 
+Thanks for reaching until here. 
+
 
